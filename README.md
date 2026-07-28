@@ -1,11 +1,25 @@
+# DevOpsPro Portfolio
 
-  # devops
+Next.js App Router portfolio for a freelance DevOps engineer.
 
-  This is a code bundle for devops. The original project is available at https://www.figma.com/design/YyBTlNAaaxSoOezF8aHPlC/devops.
+## Getting Started
 
-  ## Running the code
+```bash
+npm install
+npm run dev
+```
 
-  Run `npm i` to install the dependencies.
+Open [http://localhost:3000](http://localhost:3000).
 
-  Run `npm run dev` to start the development server.
-  
+## Scripts
+
+- `npm run dev` — development server
+- `npm run build` — production build
+- `npm start` — start production server
+
+## Routes
+
+- `/` — Home
+- `/services` — Services
+- `/about` — About
+- `/consultation` — Book consultation
