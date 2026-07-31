@@ -250,10 +250,10 @@ export function ConsultationForm() {
           <ul className="space-y-3">
             <li>
               <a
-                href="mailto:hello@devopspro.dev"
+                href="saimaalisaima313@gmail.com"
                 className="text-slate-500 text-sm hover:text-blue-600 flex items-center gap-2 transition-colors"
               >
-                <Mail size={14} className="text-blue-500" /> hello@devopspro.dev
+                <Mail size={14} className="text-blue-500" /> saimaalisaima313@gmail.com
               </a>
             </li>
             <li>
@@ -266,7 +266,7 @@ export function ConsultationForm() {
             </li>
             <li>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/saima-ali-devops-engineer/?skipRedirect=true"
                 className="text-slate-500 text-sm hover:text-blue-600 flex items-center gap-2 transition-colors"
               >
                 <Linkedin size={14} className="text-blue-500" /> LinkedIn Profile
