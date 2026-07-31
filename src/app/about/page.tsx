@@ -9,21 +9,21 @@ export const metadata: Metadata = {
 };
 
 const timeline = [
-  { year: "2019", event: "Started DevOps career, Linux and AWS fundamentals" },
+  { year: "2022", event: "Started DevOps career, Linux and AWS fundamentals" },
   {
-    year: "2020",
+    year: "2023",
     event: "First CI/CD pipeline implementations with Jenkins and GitLab CI",
   },
   {
-    year: "2021",
+    year: "2024",
     event: "Kubernetes and containerization — EKS production deployments",
   },
   {
-    year: "2022",
+    year: "2025",
     event: "Terraform IaC at scale — 100+ AWS resources under version control",
   },
-  { year: "2023", event: "Launched freelance DevOps consulting practice" },
-  { year: "2024+", event: "Serving startups and SaaS businesses globally" },
+  { year: "2026", event: "Launched freelance DevOps consulting practice" },
+ 
 ];
 
 const values = [
