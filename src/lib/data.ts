@@ -403,28 +403,28 @@ export const CASE_STUDIES = [
 
 export const TESTIMONIALS = [
   {
-    name: "Sarah Chen",
-    role: "CTO, FinTech Startup",
-    initials: "SC",
+    name: "Jons_11",
+    initials: "J",
+    role: "South Africa",
+    quote:
+      "Saima was a fantastic partner to work with! Their response time was quick, and they were willing to go above and beyond to make sure my task was completed successfully. I'm looking forward to working with them again.",
     color: "#2563EB",
-    quote:
-      "Our deployment frequency went from twice a week to multiple times per day. The pipelines are rock solid and the team ships with real confidence now.",
   },
   {
-    name: "Marcus Williams",
-    role: "VP Engineering, SaaS Company",
-    initials: "MW",
+    name: "diesltek710",
+    initials: "D",
+    role: "Repeat Client • United States",
+    quote:
+      "Amazing work as always 🤗",
     color: "#7C3AED",
-    quote:
-      "The Terraform modules reduced infrastructure provisioning from days to under an hour. Exactly the leverage we needed to scale the team without scaling headcount.",
   },
   {
-    name: "Priya Nair",
-    role: "Founder, E-commerce Platform",
-    initials: "PN",
-    color: "#10B981",
+    name: "diesltek710",
+    initials: "D",
+    role: "Repeat Client • United States",
     quote:
-      "We had zero monitoring before this engagement. Now we have full visibility into every service with alerts that actually matter. Sleep quality has genuinely improved.",
+      "Great quick work! Looking forward to doing future work with her 💪",
+    color: "#06B6D4",
   },
 ];
 
